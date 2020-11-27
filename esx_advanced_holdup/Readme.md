@@ -48,3 +48,4 @@ You can also set the alarm play time by milliseconds to seconds [in client main.
 I had fun to remake this script i can say that i learned a lot and let me remind you that i am not a programmer or something big, still learning.
 I want to say A Big Thanks to the beta testers that helped me testing this before release this remake, thanks to: Devileye™#6969, tomer#8230.
 If you have any problems or questions feel free to ask me and keep in touch by my discord name: ArielZ#5022 
+Here are A clip & small showcase of the remake: https://streamable.com/9e7kd6
